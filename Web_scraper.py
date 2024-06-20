@@ -208,10 +208,6 @@ websites = [
     "https://www.ted.com",
     "https://www.coursera.org",
     "https://www.udemy.com",
-    "https://www.edx.org",
-    "https://www.khanacademy.org",
-    "https://www.academia.edu",
-    "https://www.researchgate.net",
     "https://www.jstor.org",
     "https://www.sciencedirect.com",
     "https://www.springer.com",
@@ -226,6 +222,7 @@ websites = [
     "https://www.livescience.com",
     "https://www.space.com",
     "https://www.history.com"
+    #Add more link 
 ]
 
 # Scrape each website and store the data in the database
